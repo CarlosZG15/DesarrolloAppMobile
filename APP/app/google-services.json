@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "508529266822",
+    "project_id": "proyectoiberoecoapp",
+    "storage_bucket": "proyectoiberoecoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508529266822:android:e9f0301a0cd7b56264c107",
+        "android_client_info": {
+          "package_name": "com.example.ecoaprovechadorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8veR0--7GUWiyKb9cp3jrHUm85W-stJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -13,8 +13,41 @@
         android:theme="@style/Theme.EcoAprovechadorAPP"
         tools:targetApi="31">
         <activity
+            android:name=".Usuario"
+            android:exported="false" />
+        <activity
+            android:name=".usuario"
+            android:exported="false" />
+        <activity
+            android:name=".ui.theme.usuario"
+            android:exported="false" />
+        <activity
+            android:name=".FlayerActivity"
+            android:exported="false"
+            android:label="@string/title_activity_flayer"
+            android:theme="@style/Theme.EcoAprovechadorAPP" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false"
+            android:label="@string/title_activity_home"
+            android:theme="@style/Theme.EcoAprovechadorAPP" />
+        <activity
+            android:name=".MenuActivity"
+            android:exported="false"
+            android:label="@string/title_activity_menu"
+            android:theme="@style/Theme.EcoAprovechadorAPP" />
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="false"
+            android:launchMode="singleInstance">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name=".MainActivity"
-            android:exported="true">
+            android:exported="true"
+            android:launchMode="singleInstance">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

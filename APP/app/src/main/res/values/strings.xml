@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">EcoAprovechadorAPP</string>
+    <string name="login">Login</string>
+    <string name="ingresa_tu_correo_y_contrase_a">Ingrsa tu correo y contraseña</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_flayer">FlayerActivity</string>
 </resources>
